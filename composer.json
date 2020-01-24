@@ -1,0 +1,9 @@
+{
+    "name": "bagusgede/tokomini",
+    "description": "meluncur",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6"
+    }
+}
